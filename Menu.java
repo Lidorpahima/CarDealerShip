@@ -1,7 +1,6 @@
 /**
  * Represents the menu options in a car dealership program.
  * Lidor Pahima
- * ID 206735961
  */
 package carDealership;
 
