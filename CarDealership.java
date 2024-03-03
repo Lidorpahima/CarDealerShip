@@ -1,7 +1,6 @@
 /**
  * Represents a car dealership.
  * Lidor Pahima
- * ID 206735961
  */
 package carDealership;
 
